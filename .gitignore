@@ -1,0 +1,5 @@
+.vs/
+bin/
+obj/
+TaskParallelLibraryExample.sln
+TaskParallelLibraryExample.csproj
